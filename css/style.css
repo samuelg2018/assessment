@@ -1,0 +1,24 @@
+header h1 {
+	padding-top: 20px;
+	font-weight: normal;
+    font-size: 400%;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+footer{
+    text-align: center;
+    font-size: 85%;
+    color: #999;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.jumbotron{
+    max-width: 90%;
+}
+
+.btn{
+    margin-bottom: 10px;
+}
